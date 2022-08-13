@@ -11,4 +11,8 @@ Web App Store makes it easier to find your favorite sites and install them as
 
 Make a Linux-based version 
 
+# Download
+
+https://drive.google.com/file/d/1RX3vmi04uIvJ6fnPeaf7n9s2cS2eFwp-/view?usp=sharing
+
 All rights goes to Microsoft Corporation. I do not own Edge or Windows, this is just for test and educational purposes, and kinda for my fun
